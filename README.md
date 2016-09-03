@@ -9,7 +9,7 @@ To use it, add a script tag like this:
 <script id=no-loader
   data-legacy=/path/to/non-es6-version.js
   data-timeout=60000
-  src=https://npmcdn.com/no-loader@latest/index.min.js></script>
+  src=https://unpkg.com/no-loader@latest/index.min.js></script>
 ```
 
 Then insert your app's script tag pointing to the modern version of your code.
